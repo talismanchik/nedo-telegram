@@ -1,0 +1,11 @@
+.components {
+    display: flex;
+    flex-direction: column;
+}
+
+.messageScreen {
+    flex-grow: 1;
+    height: calc(100vh - 50px - 60px);
+    overflow: auto;
+    background-color: #b7d0fc;
+}

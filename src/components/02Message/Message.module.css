@@ -1,0 +1,39 @@
+.avatar{
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+}
+
+.block{
+    display: flex;
+    margin: 10px 0 ;
+}
+
+.myMessage{
+    flex-direction: row-reverse;
+}
+
+
+.avaName{
+margin: 0 15px;
+}
+
+.messageBlock{
+    background-color: #a7e4ff;
+    border-radius: 10px;
+    padding: 15px 5px 5px 15px;
+    display: flex;
+    flex-direction: column;
+    }
+.message{
+margin-bottom: 5px;
+    margin-right: 15px;
+}
+
+.icons{
+    font-size: 14px;
+    align-self: flex-end;
+    color: #5d8596;
+    display: flex;
+    gap: 5px;
+}

@@ -1,0 +1,21 @@
+.footer {
+    display: flex;
+    height: 60px;
+    width: 100%;
+    background-color: cornflowerblue;
+}
+
+.input{
+    align-self: center;
+    margin: 0 20px;
+    width: 50%;
+    height: 50%;
+    border: none;
+    background-color: #7aa3ef;
+}
+.send{
+    align-self: center;
+    margin: 15px;
+    color: #a7e4ff;
+    font-size: 20px;
+}
